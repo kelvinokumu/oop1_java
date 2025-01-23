@@ -1,4 +1,4 @@
-package java_classes;
+package java_classes.access_specifiers;
 
 public class Access {
     public int publicVar;
