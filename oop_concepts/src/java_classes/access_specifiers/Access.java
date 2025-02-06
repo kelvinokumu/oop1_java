@@ -1,5 +1,7 @@
 package java_classes.access_specifiers;
 
+import java.util.Scanner;
+
 public class Access {
     public int publicVar;
     protected int protectedVar;
@@ -18,7 +20,15 @@ public class Access {
         // Accessible only within the same package
     }
 
-    private void privateMethod() {
+    private static void privateMethod() {
         // Accessible only within this class
+    }
+
+    public static void main(String[] args) {
+        Access a = new Access();
+        a.publicMethod();
+
+        Scanner sc = new Scanner(System.in);
+        sc.hasNextInt();
     }
 }

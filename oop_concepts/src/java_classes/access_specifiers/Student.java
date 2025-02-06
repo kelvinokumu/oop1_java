@@ -6,12 +6,16 @@ class Student {
     int grade;          // Default: Accessible only within the same package
     private String email; // Private: Accessible only within this class
 
-    // Constructor
+    // Constructor - Initialize
     public Student(String name, int id, int grade, String email) {
         this.name = name;
         this.id = id;
         this.grade = grade;
         this.email = email;
+    }
+
+    public Student(){
+
     }
 
     // Public method to access private field
