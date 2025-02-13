@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop_concepts/intro.iml" filepath="$PROJECT_DIR$/oop_concepts/intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oop1_java.iml" filepath="$PROJECT_DIR$/.idea/oop1_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
       <module fileurl="file://$PROJECT_DIR$/project2/project2.iml" filepath="$PROJECT_DIR$/project2/project2.iml" />
