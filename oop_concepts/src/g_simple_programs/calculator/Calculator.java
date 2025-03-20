@@ -3,7 +3,8 @@ package g_simple_programs.calculator;
 class Calculator {
     private Operation operation;
 
-    public void setOperation(Operation operation) {
+    public void setOperation(Operation operation)
+    {
         this.operation = operation;
     }
 
